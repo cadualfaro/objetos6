@@ -1,13 +1,3 @@
-/*
-Exercício 3
-
-Implemente que cada Pessoa possa ter vários objetos do tipo Carro
-Implemente os seguintes métodos dentro da classe Pessoa
--getMaisRapido(); retorna o objeto Carro mais rápido que a pessoa tem
--getMaisAntigo(); retorna o objeto Carro mais antigo que a pessoa tem
-
-Entregar códigos (Pessoa.java, Carro.java e Conta.java) em um zip
- */
 package objetos6;
 
 public class Carro {
